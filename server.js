@@ -1,6 +1,6 @@
 //initiate express
 const express = require('express');
-const PORT = process.env.PORT || 443
+const PORT = process.env.PORT || 3001
 const app = express();
 // const fs = require('fs');
 // const util = require('util');
